@@ -1,0 +1,2 @@
+# dnet
+The D-Net Software Kit is an Open Source service-oriented solution for the construction of customised Data Infrastructures. Data Infrastructures address the need increasingly manifested by research communities to operate over the integration of content collected from several information sources (such as institutional repositories endowed with OAI-PMH interfaces, or archives of research data).
